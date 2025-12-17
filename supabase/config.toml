@@ -1,0 +1,13 @@
+project_id = "euyhjyikrbsrbertbvfo"
+
+[functions.rfp-summarize]
+verify_jwt = false
+
+[functions.product-match]
+verify_jwt = false
+
+[functions.generate-proposal]
+verify_jwt = false
+
+[functions.extract-pdf-text]
+verify_jwt = false
